@@ -1,0 +1,22 @@
+{
+  "name": "caption-me",
+  "version": "1.0.0",
+  "description": "Caption Me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalfig/caption-me.git"
+  },
+  "keywords": [
+    "caption"
+  ],
+  "author": "Ryan Feigenbaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royalfig/caption-me/issues"
+  },
+  "homepage": "https://github.com/royalfig/caption-me#readme"
+}
